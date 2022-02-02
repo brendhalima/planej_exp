@@ -1,2 +1,2 @@
 # planej_exp
-inventary of codes, pictures e tests of experiment design
+inventary of codes, pictures e tests of experiment design discipline
